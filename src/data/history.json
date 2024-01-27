@@ -1,0 +1,13 @@
+[
+    {
+        "role": "Frontend Developer",
+        "organisation": "@OctaNet",
+        "startDate": "Jun, 2023",
+        "endDate": "Aug 2023",
+        "experiences": [
+            "Worked on React",
+            "Reduced load times by 50%"
+        ],
+        "imageSrc": "history/octanet.png"
+    }
+]

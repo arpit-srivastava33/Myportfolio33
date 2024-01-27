@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Blog Vibe",
+        "imageSrc": "projects/project.png",
+        "description": "A MERN project that enable users to publish, read and manage articles.",
+        "skills": [
+            "React",
+            "Express",
+            "Node",
+            "MongoDB"
+        ],
+        "demo": "https://blogvibe-v68y.onrender.com",
+        "source": "https://github.com/arpit-srivastava33/Blog-Vibe"
+    },
+    {
+        "title": "NewsHunt",
+        "imageSrc": "projects/project.png",
+        "description": "News web app,utilizing NewsOrgApi to fetch daily news updates.",
+        "skills": [
+            "React",
+            "Express",
+            "Node"
+        ],
+        "demo": "https://github.com/arpit-srivastava33/Blog-Vibe",
+        "source": "https://github.com/arpit-srivastava33/Blog-Vibe"
+    },
+    {
+        "title": "URL Shortener",
+        "imageSrc": "projects/project.png",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": [
+            "Express",
+            "Node",
+            "HTML",
+            "CSS"
+        ],
+        "demo": "https://urlshrinker-btoa.onrender.com",
+        "source": "https://github.com/arpit-srivastava33/URL-Shrinker"
+    }
+]
